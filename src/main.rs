@@ -1,5 +1,5 @@
 //
-// This is an excercise to teach myself how to use nested iterators 
+// This is an exercise to teach myself how to use nested iterators 
 // instead of a nested for loop, and then do some combined computation
 // with each of the loop indexes. The idea is to map the outer iterator
 // to the inner iterator. Since iterators are lazy, you must flatten
